@@ -1,0 +1,162 @@
+<mxfile host="Electron" modified="2024-04-28T07:44:39.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="F4vnWok2ZsBIolsgrJgk" version="22.1.2" type="device" pages="7">
+  <diagram name="Home" id="MsV3XdjotfNIvJF_Hf8Q">
+    <mxGraphModel dx="1438" dy="866" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MEYkCgVC-sMfeH9sjA4w-9" value="&lt;h1&gt;Project&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Project description&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-237" y="-75" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MEYkCgVC-sMfeH9sjA4w-12" value="Table of Content" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-237" y="35" width="310" height="210" as="geometry">
+            <mxRectangle x="40" y="200" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Overview" link="data:page/id,-zT8MCHFXLAhUPi7W6Sw" id="MEYkCgVC-sMfeH9sjA4w-13">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="MEYkCgVC-sMfeH9sjA4w-12" vertex="1">
+            <mxGeometry y="30" width="310" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="System Context Diagram" link="data:page/id,MT1N_GpmihDRBcXJfoYm" id="WWVnv2rZLUe2YO9dQv24-2">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="MEYkCgVC-sMfeH9sjA4w-12">
+            <mxGeometry y="60" width="310" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Container Diagram" link="data:page/id,vtUlaxpItXOnJHQiWTiY" id="WWVnv2rZLUe2YO9dQv24-3">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="MEYkCgVC-sMfeH9sjA4w-12">
+            <mxGeometry y="90" width="310" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Component Diagram" link="data:page/id,3J88AU8E0-D-tGa58y5s" id="WWVnv2rZLUe2YO9dQv24-4">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="MEYkCgVC-sMfeH9sjA4w-12">
+            <mxGeometry y="120" width="310" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Code Diagram" link="data:page/id,ZdAavzqVs9zipH2NHJFu" id="WWVnv2rZLUe2YO9dQv24-6">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="MEYkCgVC-sMfeH9sjA4w-12">
+            <mxGeometry y="150" width="310" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Data Structure" link="data:page/id,MaTgPL-L9HHZyN40WiUO" id="MEYkCgVC-sMfeH9sjA4w-14">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="MEYkCgVC-sMfeH9sjA4w-12" vertex="1">
+            <mxGeometry y="180" width="310" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-zT8MCHFXLAhUPi7W6Sw" name="Overview">
+    <mxGraphModel dx="1246" dy="559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MaTgPL-L9HHZyN40WiUO" name="Data Structure">
+    <mxGraphModel dx="1246" dy="959" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Sv9q93ntLP-mdav7TFdb-1" value="Table Name" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="144" y="80" width="549" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Sv9q93ntLP-mdav7TFdb-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="Sv9q93ntLP-mdav7TFdb-1">
+          <mxGeometry y="30" width="549" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sv9q93ntLP-mdav7TFdb-3" value="Name" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="Sv9q93ntLP-mdav7TFdb-2">
+          <mxGeometry width="183" height="60" as="geometry">
+            <mxRectangle width="183" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sv9q93ntLP-mdav7TFdb-4" value="description" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="Sv9q93ntLP-mdav7TFdb-2">
+          <mxGeometry x="183" width="183" height="60" as="geometry">
+            <mxRectangle width="183" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sv9q93ntLP-mdav7TFdb-5" value="Example Value" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="Sv9q93ntLP-mdav7TFdb-2">
+          <mxGeometry x="366" width="183" height="60" as="geometry">
+            <mxRectangle width="183" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sv9q93ntLP-mdav7TFdb-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="Sv9q93ntLP-mdav7TFdb-1">
+          <mxGeometry y="90" width="549" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sv9q93ntLP-mdav7TFdb-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="Sv9q93ntLP-mdav7TFdb-6">
+          <mxGeometry width="183" height="60" as="geometry">
+            <mxRectangle width="183" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sv9q93ntLP-mdav7TFdb-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="Sv9q93ntLP-mdav7TFdb-6">
+          <mxGeometry x="183" width="183" height="60" as="geometry">
+            <mxRectangle width="183" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sv9q93ntLP-mdav7TFdb-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="Sv9q93ntLP-mdav7TFdb-6">
+          <mxGeometry x="366" width="183" height="60" as="geometry">
+            <mxRectangle width="183" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;b&gt;Back to Home&lt;/b&gt;" link="data:page/id,MsV3XdjotfNIvJF_Hf8Q" id="9agRgh-vbn4-M8hg2a4y-1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="144" y="-48" width="109" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MT1N_GpmihDRBcXJfoYm" name="System Context Diagram">
+    <mxGraphModel dx="1646" dy="559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OMkwsYTAArwG-m8zMLVd-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.structurizr.com/workspace/76748/diagrams/SystemContext-key.png;" vertex="1" parent="1">
+          <mxGeometry x="-262" y="72" width="195" height="39" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vtUlaxpItXOnJHQiWTiY" name="Container Diagram">
+    <mxGraphModel dx="1646" dy="959" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sZtm0v5WM90NrilkFpfk-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.structurizr.com/workspace/36141/diagrams/Containers-key.png;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="-15" width="508.67" height="203.47" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3J88AU8E0-D-tGa58y5s" name="Component Diagram">
+    <mxGraphModel dx="1646" dy="959" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NzXSIv-vdHz39rHNk4g7-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.structurizr.com/workspace/76748/diagrams/Components-key.png;" vertex="1" parent="1">
+          <mxGeometry x="-339" y="30" width="695.01" height="278" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;b&gt;Back to Home&lt;/b&gt;" link="data:page/id,MsV3XdjotfNIvJF_Hf8Q" id="fNAtwVG618CjIgP_Tklz-1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="-396" y="-49" width="109" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZdAavzqVs9zipH2NHJFu" name="Code Diagram">
+    <mxGraphModel dx="1646" dy="959" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oj7JrxFASQtSiVkCE_Vn-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://c4model.com/img/class-diagram.png;" vertex="1" parent="1">
+          <mxGeometry x="-317" y="45" width="314.89" height="222" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;b&gt;Back to Home&lt;/b&gt;" link="data:page/id,MsV3XdjotfNIvJF_Hf8Q" id="bSZOBaAmf8mX6id_N6t5-1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="-359" y="-16" width="109" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
